@@ -1,0 +1,1 @@
+mt5_encoder_intent_for_laptop_conversation_ver4/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
