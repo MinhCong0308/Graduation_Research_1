@@ -36,8 +36,7 @@ Graduation_Research_1/
 | Intent (laptop) | vi + en | 961 | Synthetic dialogues |
 | Product DB | — | ≈400 SKUs | crawled from thegioididong.com |
 
----
-
+```
 ## 🏋️‍♀️  Training Results
 
 | Model | P | R | F1 / Acc |
